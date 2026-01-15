@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS UNDERGRAD<br>I’m Dharani priya, <br>a CS undergrad who codes,<br> debugs, overthinks, fixes it anyway<br> and somehow comes out smarter each time.
+<br>I’m Dharani priya, <br>a CS undergrad who codes,<br> debugs, overthinks, fixes it anyway<br> and somehow comes out smarter each time.
 
 
 ## 🌐 Socials:
