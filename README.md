@@ -1,6 +1,21 @@
-# 💫 About Me:
-<br>I’m Dharani priya, <br>a CS undergrad who codes,<br> debugs, overthinks, fixes it anyway<br> and somehow comes out smarter each time.
+<h1 align="center"> Hey!,I'm Dharani Priya </h1>
 
+# About Me:
+<ul>
+  <li>👋 I'm <b>Dharani Priya</b></li>
+  <li>🎓 CS undergrad at <b>Sri Krishna College of Engineering and Technology</b>, pursuing Computer Science and Engineering</li>
+  <li>🏷️ Pronouns: she/her/hers</li>
+</ul>
+
+<ul>
+  <li>💻 Full-stack developer working with <b>Spring Boot, React.js, and JavaScript</b></li>
+  <li>🤖 Interested in Machine Learning and have built several related projects</li>
+</ul>
+
+<ul>
+  <li>👩‍💻 Always open to collaborating on projects and innovative ideas</li>
+  <li>⚡ Reach me at: <b>dharanipriya1809@gmail.com</b></li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharani-priya-0884ab305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharanipriya1809@gmail.com) 
