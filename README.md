@@ -1,4 +1,8 @@
-<h1 align="center"> Hey!,I'm Dharani Priya </h1>
+<h1 align="center">Hey!, I'm Dharani Priya 👋</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DharaniPriya18/DharaniPriya18/main/cat-robot.gif" width="300"/>
+</p>
 
 # About Me:
 <ul>
